@@ -6,3 +6,6 @@ used for learning Advanced Programming in the Unix Environment 3rd
 
 ## api-test
 used for testing linux api
+
+## segmentaion-fault
+all kinds of segmentation faults
