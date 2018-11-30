@@ -9,3 +9,6 @@ used for testing linux api
 
 ## segmentaion-fault
 all kinds of segmentation faults
+
+## thread
+used for testing thread
